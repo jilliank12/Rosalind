@@ -1,0 +1,27 @@
+sbt assembly
+reStart
+sbt reSTart
+sbt reStart
+exit
+compile
+run
+1 "/Users/Jilliankim/Desktop/25Dataset.txt"
+run
+sbt "run /Users/Jilliankim/Desktop/25Dataset.txt"
+sbt "run 1 /Users/Jilliankim/Desktop/25Dataset.txt"
+run
+~runMain Long "/Users/Jilliankim/Desktop/25Dataset.txt"
+run
+~runMain Long "http://galvanize.skills.fund/ds-de-accepted"
+~runMain bio.Long "http://galvanize.skills.fund/ds-de-accepted"
+compilie
+sbt clean compile
+sbt compile clean
+sbt clean
+clean
+compile
+~runMain bio.Long "/Users/Jilliankim/Desktop/25Dataset.txt"
+~runMain bio.Long "/src/resources/25Dataset.txt"
+~runMain bio.Long "./src/resources/25Dataset.txt"
+~runMain bio.Long "/Users/Jilliankim/IdeaProjects/Rosalind/src/main/resources/25Dataset.txt"
+exit
